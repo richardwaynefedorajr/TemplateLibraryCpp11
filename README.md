@@ -4,7 +4,7 @@ Set of useful templated design patterns and utilities
 Template design patterns based on those proposed by the "Gang of Four" in Design Patterns: Elements of Reusable Object-Oriented Software [Vlissides, John, et al. "Design patterns: Elements of reusable object-oriented software." Reading: Addison-Wesley 49.120 (1995): 11.]
 
 # Maintainer
-Rich Fedora
+Richard Wayne Fedora Jr.
 
 richardwaynefedorajr@gmail.com
 
@@ -21,4 +21,3 @@ Ubuntu Mate 14.04
 
 # Dependencies
 C++ Standard Library
-
